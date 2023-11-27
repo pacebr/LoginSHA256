@@ -1,0 +1,12 @@
+C:\Users\victor.gsnogueira\source\repos\testezaobolado\testezaobolado\bin\Debug\testezaobolado.exe.config
+C:\Users\victor.gsnogueira\source\repos\testezaobolado\testezaobolado\bin\Debug\testezaobolado.exe
+C:\Users\victor.gsnogueira\source\repos\testezaobolado\testezaobolado\bin\Debug\testezaobolado.pdb
+C:\Users\victor.gsnogueira\source\repos\testezaobolado\testezaobolado\obj\Debug\testezaobolado.csproj.AssemblyReference.cache
+C:\Users\victor.gsnogueira\source\repos\testezaobolado\testezaobolado\obj\Debug\testezaobolado.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.gsnogueira\source\repos\testezaobolado\testezaobolado\obj\Debug\testezaobolado.Form1.resources
+C:\Users\victor.gsnogueira\source\repos\testezaobolado\testezaobolado\obj\Debug\testezaobolado.Properties.Resources.resources
+C:\Users\victor.gsnogueira\source\repos\testezaobolado\testezaobolado\obj\Debug\testezaobolado.csproj.GenerateResource.cache
+C:\Users\victor.gsnogueira\source\repos\testezaobolado\testezaobolado\obj\Debug\testezaobolado.csproj.CoreCompileInputs.cache
+C:\Users\victor.gsnogueira\source\repos\testezaobolado\testezaobolado\obj\Debug\testezaobolado.exe
+C:\Users\victor.gsnogueira\source\repos\testezaobolado\testezaobolado\obj\Debug\testezaobolado.pdb
+C:\Users\victor.gsnogueira\source\repos\testezaobolado\testezaobolado\obj\Debug\testezaobolado.Form3.resources
